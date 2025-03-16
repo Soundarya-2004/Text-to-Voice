@@ -9,8 +9,6 @@ A simple and elegant **Text-to-Speech Converter** built with HTML, CSS, and Java
 - Allows users to input custom text and choose voice options.
 - Lightweight and responsive design.
 
-## 🖼 Preview
-![Project Preview](images/project-preview.png)
 
 ## 🚀 How to Use
 1. Clone this repository:
